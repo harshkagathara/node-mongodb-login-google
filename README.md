@@ -12,3 +12,6 @@ Under Application type, select Web application.<br>
 In Authorized redirect URI use http://localhost:3000/google/callback<br>
 Press the Create button and copy the generated client ID and client secret snd pest .env file<br>
 <br>
+
+<b>Login Page :- /b>
+![image](https://user-images.githubusercontent.com/49555360/118383854-5ae30180-b61f-11eb-98f3-61fb3e1ccffd.png)
