@@ -1,7 +1,7 @@
 # node-mongodb-login-google
  Authenticate Node.js with Google using Auth0
 
-<b>Note<b> : Create a Google client ID and client secret
+<b>Note</b> : Create a Google client ID and client secret
 <br>
 We can create a client ID and client secret using its Google API Console. You need to follow below steps once you open Google API Console
 <br>
