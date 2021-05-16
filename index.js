@@ -16,4 +16,6 @@ app.use(passport.initialize());
 app.use(passport.session());
 require('./App/Middleware/setup');
 require('./App/Routes/routes')(app);
-app.listen(3000, () => console.log(`Example app listening on port ${3000}!`))
+app.listen(3000, () => {
+  console.log('App listening on port ' + 3000);
+});
