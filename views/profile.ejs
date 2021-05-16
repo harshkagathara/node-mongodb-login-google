@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="profile.css">
+    <link href="https://fonts.googleapis.com/css?family=KoHo" rel="stylesheet">
+	</head>
+	<body>
+		<div class="card">
+			<img src="<%=pic%>" class="card-img-top" alt="<%=pic%>" />
+			<div class="card-body">
+				<h5 class="card-title"><%= given_name %> <%= family_name %></h5>
+				<p class="card-text">
+					<%= email %>
+				</p>
+				<a href="/logout" class="btn btn-primary">LogOut</a>
+			</div>
+		</div>
+	</body>
+</html>
