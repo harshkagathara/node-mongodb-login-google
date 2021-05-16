@@ -14,6 +14,6 @@ Press the Create button and copy the generated client ID and client secret snd p
 <br>
 
 <b>Login Page :- /b>
-![image](https://user-images.githubusercontent.com/49555360/118383854-5ae30180-b61f-11eb-98f3-61fb3e1ccffd.png | width=100)
+![image](https://user-images.githubusercontent.com/49555360/118383854-5ae30180-b61f-11eb-98f3-61fb3e1ccffd.png)
 
 
